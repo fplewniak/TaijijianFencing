@@ -1,0 +1,43 @@
+\documentclass[twoside]{article}
+
+\usepackage{graphicx}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{caption}[2008/04/01]
+\usepackage{wrapfig}
+\usepackage{subfig}
+
+\usepackage{lipsum}  % to provide "filler" text
+
+\captionsetup{
+  justification=raggedright,
+  labelfont={color=Maroon,bf},
+  font=small}
+
+\begin{document}
+\lipsum[1-2]
+
+% Three marginpar figures to see how this looks in
+% the left and right margins of twoside docs...
+\marginpar{\includegraphics[width=0.95\marginparwidth]{Carl_Friedrich_Gauss.jpg}
+ \captionof{figure}{Carl Friedrich Gauss, født 1777, er bedst kendt for normalfordelingen}}
+\lipsum[1-2]
+\marginpar{\includegraphics[width=0.95\marginparwidth]{Carl_Friedrich_Gauss.jpg}
+ \captionof{figure}{Carl Friedrich Gauss, født 1777, er bedst kendt for normalfordelingen}}
+\lipsum[1-4]
+\marginpar{\includegraphics[width=0.95\marginparwidth]{Carl_Friedrich_Gauss.jpg}
+ \captionof{figure}{Carl Friedrich Gauss, født 1777, er bedst kendt for normalfordelingen}}
+\lipsum[5-6]
+
+\lipsum[2]
+\setlength\columnsep{\marginparsep}
+\begin{wrapfigure}[33]{r}[3cm]{0.46\textwidth}
+\vspace{-1.5\baselineskip}
+\subfloat[Giveaway pr. beholder i procent]{\label{lbl1}
+  \includegraphics[width=0.45\textwidth]{test.png}}\par
+\subfloat[Giveaway pr. beholder i procent]{\label{lbl2}
+  \includegraphics[width=0.45\textwidth]{test.png}}
+\caption{Resultater for testsæt 1 blah blah blah blah blah blah blah.}
+\end{wrapfigure}
+\lipsum[11-14]
+
+\end{document}

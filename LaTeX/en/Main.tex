@@ -1,0 +1,104 @@
+% !TeX spellcheck = en_GB
+\documentclass[11pt,a5paper,twoside]{book}
+%format A5
+%\usepackage[top=25mm, bottom=20mm, outer=20mm, inner=25mm]{geometry}
+%Format Royal
+\usepackage[paperwidth=156mm, paperheight=234mm,top=25mm, bottom=20mm, outer=20mm, inner=25mm]{geometry}
+%\usepackage{fontspec}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+%\usepackage{xeCJK} 
+%\setCJKmainfont{AR PL UMing TW MBE}
+%\setCJKsansfont[BoldFont=FandolHei-Bold.otf]{FandolHei-Regular.otf}
+%\setCJKmonofont{FandolFang-Regular.otf}
+%\newCJKfontfamily\kaiti{FandolKai-Regular.otf}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+%Restricts floats within section
+%\usepackage[section]{placeins}
+\usepackage{placeins}
+%Subfigures
+\usepackage{subfigure}
+%Header and footer control
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+%Verbatim and multi-line comments
+\usepackage{verbatim}
+\usepackage[english]{babel}
+%Caption control
+\usepackage[font=small,format=plain,labelfont=bf,labelsep=endash,textfont=up]{caption}
+\captionsetup{figurename=Fig.}
+%Include des macros Pinyin pour traitement de-macro avant pandoc ou tex4ebook
+\usepackage{Pinyin-private}
+\usepackage[abs]{overpic}
+\usepackage{color}
+\usepackage{anyfontsize}
+%Pour les unités physiques, kg, g, cm, etc.
+\usepackage[squaren,Gray]{SIunits}
+%=============================================================
+\title{{\Huge \TAIJIJIAN{}\\}{\huge \Taiji{} sword fencing}}
+\author{{\large Frédéric Plewniak}}
+\makeindex
+\begin{document}
+\newcommand{\fiche}[1]{}
+\setcounter{secnumdepth}{0}
+%\renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
+\renewcommand{\sectionmark}[1]{ \markright{#1}{} }
+%Set the level of sections in table of contents
+\setcounter{tocdepth}{1}
+\frontmatter
+\begin{titlepage}
+%\setcounter{page}{0}
+%\newgeometry{top=0mm, bottom=0mm, outer=0mm, inner=0mm, hoffset=-6mm,voffset=0mm}
+%\includegraphics[width=\paperwidth]{../../Images/CouverturePDF_Royal}
+\setlength\unitlength{1mm}
+\newgeometry{top=0mm, bottom=0mm, outer=0mm, inner=0mm, hoffset=-6mm,voffset=1mm}
+\begin{overpic}[width=\paperwidth]%
+{../../Images/CouverturePDF_Royal}
+\put(28,180){\color{white}{{\upshape\fontfamily{ppl}\fontseries{b}\fontsize{50}{60}\selectfont \TAIJIJIAN{}}}}
+\put(30,165){\color{white}{{\upshape\fontfamily{ppl}\fontseries{l}\fontsize{32}{30}\selectfont \Taiji{} sword fencing}}}
+
+\put(70,25){\color{white}{{\scshape\fontfamily{pbk}\fontseries{l}\fontsize{20}{20}\selectfont Frédéric Plewniak}}}
+\end{overpic}
+\thispagestyle{empty}
+\restoregeometry
+\end{titlepage}
+\maketitle
+\thispagestyle{empty}
+\setcounter{page}{0}
+\input{Licence}
+\tableofcontents
+\listoffigures
+\input{Preface}
+\mainmatter
+\part{Generalities}
+\input{ChineseSword}
+%\input{ChineseSword_tab}
+%\input{ChineseSword_archive}
+%\input{ChineseSword_stop}
+\input{Taijijian}
+\part{Elementary notions}
+\input{Grip}
+\input{JibenJianFa}
+\input{Stepping}
+\part{\Taijijian{} fencing}
+\input{DistanceTime}
+\input{Lines}
+\input{Guards}
+\input{FreePlay}
+\input{Applications}
+\part{\Taiji{} principles}
+\input{Classics}
+\input{Transformation}
+\input{Jing}
+\input{SiYao}
+\input{Yi}
+\part{Appendices}
+\appendix
+\input{Kunlun}
+\input{Glossary}
+%\printglossaries
+\backmatter
+\printindex
+\end{document}
