@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+<url>
+  <loc>http://taijijian.free.fr/</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/index_en.html" hreflang="en"/>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/index_en.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/index_en.html" hreflang="en"/>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Table.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Table.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Table.html" hreflang="en"/>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Table.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Table.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Table.html" hreflang="en"/>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/AvantPropos.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/AvantPropos.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Preface.html" hreflang="en"/>  
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Preface.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/AvantPropos.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Preface.html" hreflang="en"/>  
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/EpeeChinoise.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/EpeeChinoise.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/ChineseSword.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/ChineseSword.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/EpeeChinoise.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/ChineseSword.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Taijijian.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Taijijian.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Taijijian.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Taijijian.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Taijijian.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Taijijian.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Prise.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Prise.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Grip.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Grip.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Prise.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Grip.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url> 
+<url>
+  <loc>http://taijijian.free.fr/fr/JibenJianFa.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/JibenJianFa.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/JibenJianFa.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/JibenJianFa.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/JibenJianFa.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/JibenJianFa.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Deplacements.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Deplacements.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Stepping.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Stepping.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Deplacements.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Stepping.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/DistanceTemps.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/DistanceTemps.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/DistanceTime.html" hreflang="en"/>     
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/DistanceTime.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/DistanceTemps.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/DistanceTime.html" hreflang="en"/>     
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Lignes.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Lignes.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Lines.html" hreflang="en"/> 
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Lines.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Lignes.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Lines.html" hreflang="en"/> 
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Gardes.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Gardes.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Guards.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Guards.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Gardes.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Guards.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Assaut.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Assaut.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/FreePlay.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/FreePlay.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Assaut.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/FreePlay.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Applications.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Applications.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Applications.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Applications.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Applications.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Applications.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Classiques.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Classiques.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Classics.html" hreflang="en"/>      
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Classics.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Classiques.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Classics.html" hreflang="en"/>      
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Transformation.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Transformation.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Transformation.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Transformation.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Transformation.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Transformation.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Jing.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Jing.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Jing.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Jing.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Jing.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Jing.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/SiYao.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/SiYao.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/SiYao.html" hreflang="en"/>      
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/SiYao.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/SiYao.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/SiYao.html" hreflang="en"/>      
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Yi.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Yi.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Yi.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Yi.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Yi.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Yi.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Glossaire.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Glossaire.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Glossary.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Glossary.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Glossaire.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Glossary.html" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Kunlun.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Kunlun.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Kunlun.html" hreflang="en"/>     
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Kunlun.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Kunlun.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Kunlun.html" hreflang="en"/>     
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Videos.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Videos.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Videos.html" hreflang="en"/>     
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Videos.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Videos.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Videos.html" hreflang="en"/>     
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Epub.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Epub.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Epub.html" hreflang="en"/>  
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Epub.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Epub.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Epub.html" hreflang="en"/>  
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/PDF.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/PDF.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/PDF.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/PDF.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/PDF.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/PDF.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Agenda.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Agenda.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Agenda.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Agenda.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Agenda.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Agenda.html" hreflang="en"/>    
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Liens.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Liens.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Links.html" hreflang="en"/>     
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Links.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Liens.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Links.html" hreflang="en"/>     
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/fr/Contact.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Contact.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Contact.html" hreflang="en"/> 
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/en/Contact.html</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/fr/Contact.html" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/en/Contact.html" hreflang="en"/> 
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/EscrimeTaiji.pdf</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/EscrimeTaiji.pdf" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/TaijiFencing.pdf" hreflang="en"/> 
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://taijijian.free.fr/TaijiFencing.pdf</loc>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/EscrimeTaiji.pdf" hreflang="fr"/>
+  <xhtml:link rel="alternate" href="http://taijijian.free.fr/TaijiFencing.pdf" hreflang="en"/>   
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>

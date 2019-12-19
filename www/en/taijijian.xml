@@ -1,0 +1,22 @@
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel rdf:about="http://url">
+	<title>Taijijian: Taiji sword fencing</title>
+	<description>Information and news about the taijijian.free.fr web site. This site is a free on-line book that can also be downloaded in PDF or Epub format.
+	</description>
+	<items>
+		<rdf:Seq>
+			<rdf:li rdf:resource="http://taijijian.free.fr/en/ChineseSWord.html" />
+		</rdf:Seq>
+	</items>
+	<dc:rights>Frédéric PLEWNIAK</dc:rights>
+</channel>
+<item rdf:about="http://taijijian.free.fr/en/ChineseSWord.html">
+	<title>Updated chapter: "Chinese sword"</title>
+	<link>http://taijijian.free.fr/en/ChineseSWord.html</link>
+	<description>The fist chapter about the Chinese sword has been updated.</description>
+</item>
+</rdf:RDF>

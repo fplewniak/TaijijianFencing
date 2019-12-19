@@ -1,0 +1,22 @@
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel rdf:about="http://url">
+	<title>Taijijian: escrime du Taiji</title>
+	<description>Informations et actualités du site taijijian.free.fr. Ce site est un conçu comme un livre gratuit, consultable en ligne ou téléchargeable au format PDF ou Epub.
+	</description>
+	<items>
+		<rdf:Seq>
+			<rdf:li rdf:resource="http://taijijian.free.fr/fr/EpeeChinoise.html" />
+		</rdf:Seq>
+	</items>
+	<dc:rights>Frédéric PLEWNIAK</dc:rights>
+</channel>
+<item rdf:about="http://taijijian.free.fr/fr/EpeeChinoise.html">
+	<title>Mise à jour du chapitre "L'épée chinoise"</title>
+	<link>http://taijijian.free.fr/fr/EpeeChinoise.html</link>
+	<description>Le chapitre 1 sur l'épée chinoise a été mis à jour.</description>
+</item>
+</rdf:RDF>
